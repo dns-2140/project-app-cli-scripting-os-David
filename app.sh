@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# =============================================
-# Sistem Manajemen Perpustakaan Sederhana
-# File: app.sh
-# Penulis: Assistant AI
-# Deskripsi: Aplikasi bash untuk mengelola koleksi buku perpustakaan
-# =============================================
-
-# Variabel global
 declare -a books
 data_file="library.txt"
 RED='\033[0;31m'
